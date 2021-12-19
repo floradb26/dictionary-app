@@ -10,7 +10,7 @@ export default function App() {
         <Dictionary />
       </main>
       </header>
-      <footer className="footer">Coded by Floriane Ramirez De Bruyne and is <a href="https://github.com/floradb26/dictionary-app" rel="noreferrer">open-sourced</a></footer>
+      <footer className="footer">Coded by Floriane Ramirez De Bruyne and is <a href="https://github.com/floradb26/dictionary-app" rel="noreferrer">open-sourced</a> and hosted on <a href="https://naughty-swanson-5a74d2.netlify.app/" rel="noreferrer">Netlify</a></footer>
       </div>
     </div>
   );

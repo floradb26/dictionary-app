@@ -1,3 +1,7 @@
+body {
+  background-color: #EDD2F3;
+}
+
 .App-header {
   margin: 60px 0 100px 0;
   text-align: center;
@@ -6,5 +10,11 @@
 .footer {
   text-align: center;
   font-family: monospace;
-  font-size: 12px;
+  font-weight: bold;
+  font-size: 15px;
+  color: #3a3191;
+}
+
+.footer a {
+color: #516BEB;
 }
