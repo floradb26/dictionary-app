@@ -12,9 +12,10 @@
 }
 
 .Phonetic a:hover {
-    background: #84DFFF;
+    background: #EDD2F3;
     border: 1px solid #FFFCDC;
     color: #516BEB;
+    font-weight: bold;
 }
 
 .Phonetic .text {
