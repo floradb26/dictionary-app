@@ -28,7 +28,7 @@ export default function Dictionary() {
     <form onSubmit={search}>
         <input type="search" onChange={handleKeywordChange}/>
     </form>
-    <section className="section mb-5">
+    <section className="section">
     <Results results={results}/>
     </section>
    </div> 
