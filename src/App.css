@@ -1,5 +1,5 @@
 body {
-  background-color: #EDD2F3;
+  background-color:#EDD2F3;
 }
 
 a{
@@ -20,9 +20,9 @@ margin: 0 auto;
   font-family: monospace;
   font-weight: bold;
   font-size: 12px;
-  color: #3a3191;
+  color: #4C0027;
 }
 
 .footer a {
-color: #516BEB;
+color: #750550;
 }
